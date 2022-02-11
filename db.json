@@ -16,7 +16,7 @@
         "blogData": [
             {
                 "id": 1,
-                "img": "/img/blog-single.jpg",
+                "img": "/img/blog_single.jpg",
                 "author": "Mehdi P.",
                 "date": "Feb 9, 2022",
                 "title": "Decentralizing NFT metadata on OpenRare",
